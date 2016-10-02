@@ -5,8 +5,6 @@ Project("{16EE9A6A-9E73-C222-9973-4B234814BB53}") = "MoCap Game", "Assembly-CSha
 EndProject
 Project("{16EE9A6A-9E73-C222-9973-4B234814BB53}") = "MoCap Game", "Assembly-CSharp.csproj", "{F68C5C11-EB30-64FA-0FAA-D15623A813F4}"
 EndProject
-Project("{16EE9A6A-9E73-C222-9973-4B234814BB53}") = "MoCap Game", "Assembly-CSharp-Editor.csproj", "{667557A7-D9CF-C338-3B35-9E042BF7D8DB}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,10 +19,6 @@ Global
 		{F68C5C11-EB30-64FA-0FAA-D15623A813F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F68C5C11-EB30-64FA-0FAA-D15623A813F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F68C5C11-EB30-64FA-0FAA-D15623A813F4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{667557A7-D9CF-C338-3B35-9E042BF7D8DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{667557A7-D9CF-C338-3B35-9E042BF7D8DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{667557A7-D9CF-C338-3B35-9E042BF7D8DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{667557A7-D9CF-C338-3B35-9E042BF7D8DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
