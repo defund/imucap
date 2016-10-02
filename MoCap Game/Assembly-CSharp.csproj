@@ -96,7 +96,6 @@
      <Compile Include="Assets\scripts\Attacks\StinkHit.cs" />
      <Compile Include="Assets\scripts\Attacks\StinkProjectile.cs" />
      <Compile Include="Assets\scripts\Death.cs" />
-     <Compile Include="Assets\scripts\ElbowRotate.cs" />
      <Compile Include="Assets\scripts\Enemy\EnemyAttack.cs" />
      <Compile Include="Assets\scripts\Enemy\EnemyHealth.cs" />
      <Compile Include="Assets\scripts\Enemy\EnemyMovement.cs" />
@@ -109,6 +108,7 @@
      <Compile Include="Assets\scripts\Helpers\LookAtMouse.cs" />
      <Compile Include="Assets\scripts\Helpers\MouseLocation.cs" />
      <Compile Include="Assets\scripts\JointRotate.cs" />
+     <Compile Include="Assets\scripts\JointRotate_old.cs" />
      <Compile Include="Assets\scripts\Managers\AllyManager.cs" />
      <Compile Include="Assets\scripts\Managers\EnemySpawner.cs" />
      <Compile Include="Assets\scripts\Managers\GameManager.cs" />
