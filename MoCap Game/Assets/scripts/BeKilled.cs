@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Death : MonoBehaviour {
+public class BeKilled : MonoBehaviour {
 
     public Texture2D fadeOutTexture;
     public float fadeSpeed = 0.8f;
@@ -9,19 +9,23 @@ public class Death : MonoBehaviour {
     private int drawDepth = -1000;
     private float alpha = 1.0f;
     private int fadeDir = -1;
-    private bool dead;
+
+    private bool dead = false;
 
 	// Use this for initialization
 	void Start () {
-        dead = false;
+	
 	}
 	
 	// Update is called once per frame
 	void Update () {
+	
 	}
 
-    void OnGUI() {
-        if (dead) {
+    void OnGUI()
+    {
+        if (dead)
+        {
             alpha += fadeDir * fadeSpeed * Time.deltaTime;
             alpha = Mathf.Clamp01(alpha);
 
@@ -33,6 +37,11 @@ public class Death : MonoBehaviour {
     }
 
     void OnTriggerEnter(Collider other) {
-        dead = true;
+        if (other.gameObject.name == "Katana") {
+            Destroy(gameObject);
+            print("Killed");
+        } else if (other.gameObject.name == "Robot Kyle") {
+            dead = true;
+        }
     }
 }
