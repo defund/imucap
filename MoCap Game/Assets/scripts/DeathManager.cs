@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class BeKilled : MonoBehaviour {
+public class DeathManager : MonoBehaviour {
 
     public Texture2D fadeOutTexture;
     public float fadeSpeed = 0.8f;

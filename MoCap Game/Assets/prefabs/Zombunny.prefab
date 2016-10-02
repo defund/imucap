@@ -115,6 +115,7 @@ GameObject:
   - 136: {fileID: 136000013794593636}
   - 195: {fileID: 195000013054937944}
   - 114: {fileID: 114000010489188394}
+  - 114: {fileID: 114000011037303628}
   m_Layer: 0
   m_Name: Zombunny
   m_TagString: Untagged
@@ -1162,7 +1163,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1828d1264ba0d7844b184cfdfbe1482b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 0}
+--- !u!114 &114000011037303628
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000010914562080}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c9e5f40ed5dbb240b61f78f4f726baa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fadeOutTexture: {fileID: 2800000, guid: a5fe12277eb14f64596c92e83e0e26b5, type: 3}
+  fadeSpeed: 0.8
 --- !u!135 &135000010261830296
 SphereCollider:
   m_ObjectHideFlags: 1
