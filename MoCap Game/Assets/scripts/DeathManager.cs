@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System.Diagnostics;
 
 public class DeathManager : MonoBehaviour {
 
@@ -14,7 +15,6 @@ public class DeathManager : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-	
 	}
 	
 	// Update is called once per frame
@@ -24,15 +24,14 @@ public class DeathManager : MonoBehaviour {
 
     void OnGUI()
     {
-        if (dead)
-        {
+        if (dead) {
             alpha += fadeDir * fadeSpeed * Time.deltaTime;
             alpha = Mathf.Clamp01(alpha);
 
             GUI.color = new Color(GUI.color.r, GUI.color.g, GUI.color.b, alpha);
             GUI.depth = drawDepth;
             GUI.DrawTexture(new Rect(0, 0, Screen.width, Screen.height), fadeOutTexture);
-            Application.LoadLevel(1);
+
         }
     }
 
@@ -41,7 +40,7 @@ public class DeathManager : MonoBehaviour {
             Destroy(gameObject);
             print("Killed");
         } else if (other.gameObject.name == "Robot Kyle") {
-            dead = true;
+            Application.LoadLevel("start");
         }
     }
 }

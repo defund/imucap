@@ -123,6 +123,7 @@
      <Compile Include="Assets\scripts\UI\MobileInterface.cs" />
      <Compile Include="Assets\scripts\UI\PauseMenu.cs" />
      <Compile Include="Assets\scripts\UI\Touchpad.cs" />
+     <Compile Include="Assets\start.cs" />
      <None Include="Assets\Realistic Terrain Collection\Other\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
      <None Include="Assets\Cartoony Weapon Pack\Readme.txt" />
      <None Include="Assets\Realistic Terrain Collection\Other\Effects\ImageEffects\Shaders\NoiseEffectShaderRGB.shader" />
