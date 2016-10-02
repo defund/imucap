@@ -95,6 +95,8 @@
      <Compile Include="Assets\scripts\Attacks\StinkAttack.cs" />
      <Compile Include="Assets\scripts\Attacks\StinkHit.cs" />
      <Compile Include="Assets\scripts\Attacks\StinkProjectile.cs" />
+     <Compile Include="Assets\scripts\Death.cs" />
+     <Compile Include="Assets\scripts\ElbowRotate.cs" />
      <Compile Include="Assets\scripts\Enemy\EnemyAttack.cs" />
      <Compile Include="Assets\scripts\Enemy\EnemyHealth.cs" />
      <Compile Include="Assets\scripts\Enemy\EnemyMovement.cs" />
