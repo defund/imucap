@@ -1,0 +1,1291 @@
+fileFormatVersion: 2
+guid: 01fd55163f5e6804a8a06b505163349c
+timeCreated: 1432051160
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BoyCtrl
+    100002: char_boy_Hat_1_ctrl
+    100004: char_boy_Hat_2_ctrl
+    100006: char_boy_Hat_3_ctrl
+    100008: char_boy_Hat_4_ctrl
+    100010: char_boy_Hat_5_ctrl
+    100012: char_boy_Head_ctrl
+    100014: char_boy_Hips_ctrl
+    100016: char_boy_HipSway_ctrl
+    100018: char_boy_LeftArm_ctrl
+    100020: char_boy_LeftBrow_1_ctrl
+    100022: char_boy_LeftBrow_2_ctrl
+    100024: char_boy_LeftBrow_3_ctrl
+    100026: char_boy_LeftFoot_ctrl
+    100028: char_boy_LeftHand
+    100030: char_boy_LeftLowerArm_FK_ctrl
+    100032: char_boy_LeftThumb_ctrl
+    100034: char_boy_LeftUpperArm_FK_ctrl
+    100036: char_boy_LeftWrist_FK_ctrl
+    100038: char_boy_LeftWrist_IK_ctrl
+    100040: char_boy_RightArm_ctrl
+    100042: char_boy_RightBrow_1_ctrl
+    100044: char_boy_RightBrow_2_ctrl
+    100046: char_boy_RightBrow_3_ctrl
+    100048: char_boy_RightFoot_ctrl
+    100050: char_boy_RightHand
+    100052: char_boy_RightLowerArm_FK_ctrl
+    100054: char_boy_RightThumb_ctrl
+    100056: char_boy_RightUpperArm_FK_ctrl
+    100058: char_boy_RightWrist_FK_ctrl
+    100060: char_boy_RightWrist_IK_ctrl
+    100062: char_boy_Spine_ctrl
+    100064: char_boy_Tail_ctrl
+    100066: Ctrl_Grp
+    100068: GunBarrelEnd
+    100070: Hat1
+    100072: Hat2
+    100074: Hat3
+    100076: Hat4
+    100078: Hat5
+    100080: Hat_1_grp
+    100082: Hat_2_grp
+    100084: Hat_3_grp
+    100086: Hat_4_grp
+    100088: Hat_5_grp
+    100090: HatEnd
+    100092: Head
+    100094: Head_grp
+    100096: Hips
+    100098: Hips_grp
+    100100: HipSway
+    100102: HipSway_grp
+    100104: LeftArm_IKHandle
+    100106: LeftBrow1
+    100108: LeftBrow1End
+    100110: LeftBrow2
+    100112: LeftBrow2End
+    100114: LeftBrow3
+    100116: LeftBrow3End
+    100118: LeftBrow_1_grp
+    100120: LeftBrow_2_grp
+    100122: LeftBrow_3_grp
+    100124: LeftFoot_grp
+    100126: LeftHand1
+    100128: LeftHand2
+    100130: LeftLeg
+    100132: LeftLowerArm
+    100134: LeftLowerArm2
+    100136: LeftLowerArm2_IK
+    100138: LeftLowerArm_2_FK
+    100140: LeftLowerArm_FK
+    100142: LeftLowerArm_grp
+    100144: LeftLowerArm_IK
+    100146: LeftShoulder
+    100148: LeftThumb1
+    100150: LeftThumb2
+    100152: LeftThumb_grp
+    100154: LeftToe
+    100156: LeftUpperArm
+    100158: LeftUpperArm_FK
+    100160: LeftUpperArm_grp
+    100162: LeftUpperArm_IK
+    100164: LeftWrist
+    100166: LeftWrist_FK
+    100168: LeftWrist_grp
+    100170: LeftWrist_IK
+    100172: LeftWrist_IK_grp
+    100174: //RootNode
+    100176: Player1
+    100178: RC1
+    100180: RC_loc
+    100182: RCDishEnd
+    100184: RCprop:DishJoint
+    100186: RCprop:joint1
+    100188: RCprop:joint2
+    100190: RCprop:joint6
+    100192: RightArm_IKHandle
+    100194: RightBrow1
+    100196: RightBrow1End
+    100198: RightBrow2
+    100200: RightBrow2End
+    100202: RightBrow3
+    100204: RightBrow3End
+    100206: RightBrow_1_grp
+    100208: RightBrow_2_grp
+    100210: RightBrow_3_grp
+    100212: RightFoot_grp
+    100214: RightHand1
+    100216: RightHand2
+    100218: RightLeg
+    100220: RightLowerArm
+    100222: RightLowerArm2
+    100224: RightLowerArm2_FK
+    100226: RightLowerArm2_IK
+    100228: RightLowerArm_FK
+    100230: RightLowerArm_grp
+    100232: RightLowerArm_IK
+    100234: RightShoulder
+    100236: RightThumb1
+    100238: RightThumb2
+    100240: RightThumb_grp
+    100242: RightToe
+    100244: RightUpperArm
+    100246: RightUpperArm_FK
+    100248: RightUpperArm_grp
+    100250: RightUpperArm_IK
+    100252: RightWrist
+    100254: RightWrist_FK
+    100256: RightWrist_grp
+    100258: RightWrist_IK
+    100260: RightWrist_IK_grp
+    100262: Root
+    100264: Spine
+    100266: Spine_grp
+    100268: Tail1
+    100270: Tail2
+    100272: Tail3
+    100274: Tail_grp
+    100276: prop_RC_barrelStretchEnd
+    100278: DishJoint
+    100280: joint1
+    100282: joint2
+    100284: joint6
+    100286: RC_loc_NeutralPose
+    400000: BoyCtrl
+    400002: char_boy_Hat_1_ctrl
+    400004: char_boy_Hat_2_ctrl
+    400006: char_boy_Hat_3_ctrl
+    400008: char_boy_Hat_4_ctrl
+    400010: char_boy_Hat_5_ctrl
+    400012: char_boy_Head_ctrl
+    400014: char_boy_Hips_ctrl
+    400016: char_boy_HipSway_ctrl
+    400018: char_boy_LeftArm_ctrl
+    400020: char_boy_LeftBrow_1_ctrl
+    400022: char_boy_LeftBrow_2_ctrl
+    400024: char_boy_LeftBrow_3_ctrl
+    400026: char_boy_LeftFoot_ctrl
+    400028: char_boy_LeftHand
+    400030: char_boy_LeftLowerArm_FK_ctrl
+    400032: char_boy_LeftThumb_ctrl
+    400034: char_boy_LeftUpperArm_FK_ctrl
+    400036: char_boy_LeftWrist_FK_ctrl
+    400038: char_boy_LeftWrist_IK_ctrl
+    400040: char_boy_RightArm_ctrl
+    400042: char_boy_RightBrow_1_ctrl
+    400044: char_boy_RightBrow_2_ctrl
+    400046: char_boy_RightBrow_3_ctrl
+    400048: char_boy_RightFoot_ctrl
+    400050: char_boy_RightHand
+    400052: char_boy_RightLowerArm_FK_ctrl
+    400054: char_boy_RightThumb_ctrl
+    400056: char_boy_RightUpperArm_FK_ctrl
+    400058: char_boy_RightWrist_FK_ctrl
+    400060: char_boy_RightWrist_IK_ctrl
+    400062: char_boy_Spine_ctrl
+    400064: char_boy_Tail_ctrl
+    400066: Ctrl_Grp
+    400068: GunBarrelEnd
+    400070: Hat1
+    400072: Hat2
+    400074: Hat3
+    400076: Hat4
+    400078: Hat5
+    400080: Hat_1_grp
+    400082: Hat_2_grp
+    400084: Hat_3_grp
+    400086: Hat_4_grp
+    400088: Hat_5_grp
+    400090: HatEnd
+    400092: Head
+    400094: Head_grp
+    400096: Hips
+    400098: Hips_grp
+    400100: HipSway
+    400102: HipSway_grp
+    400104: LeftArm_IKHandle
+    400106: LeftBrow1
+    400108: LeftBrow1End
+    400110: LeftBrow2
+    400112: LeftBrow2End
+    400114: LeftBrow3
+    400116: LeftBrow3End
+    400118: LeftBrow_1_grp
+    400120: LeftBrow_2_grp
+    400122: LeftBrow_3_grp
+    400124: LeftFoot_grp
+    400126: LeftHand1
+    400128: LeftHand2
+    400130: LeftLeg
+    400132: LeftLowerArm
+    400134: LeftLowerArm2
+    400136: LeftLowerArm2_IK
+    400138: LeftLowerArm_2_FK
+    400140: LeftLowerArm_FK
+    400142: LeftLowerArm_grp
+    400144: LeftLowerArm_IK
+    400146: LeftShoulder
+    400148: LeftThumb1
+    400150: LeftThumb2
+    400152: LeftThumb_grp
+    400154: LeftToe
+    400156: LeftUpperArm
+    400158: LeftUpperArm_FK
+    400160: LeftUpperArm_grp
+    400162: LeftUpperArm_IK
+    400164: LeftWrist
+    400166: LeftWrist_FK
+    400168: LeftWrist_grp
+    400170: LeftWrist_IK
+    400172: LeftWrist_IK_grp
+    400174: Player1
+    400176: //RootNode
+    400178: RC1
+    400180: RC_loc
+    400182: RCDishEnd
+    400184: RCprop:DishJoint
+    400186: RCprop:joint1
+    400188: RCprop:joint2
+    400190: RCprop:joint6
+    400192: RightArm_IKHandle
+    400194: RightBrow1
+    400196: RightBrow1End
+    400198: RightBrow2
+    400200: RightBrow2End
+    400202: RightBrow3
+    400204: RightBrow3End
+    400206: RightBrow_1_grp
+    400208: RightBrow_2_grp
+    400210: RightBrow_3_grp
+    400212: RightFoot_grp
+    400214: RightHand1
+    400216: RightHand2
+    400218: RightLeg
+    400220: RightLowerArm
+    400222: RightLowerArm2
+    400224: RightLowerArm2_FK
+    400226: RightLowerArm2_IK
+    400228: RightLowerArm_FK
+    400230: RightLowerArm_grp
+    400232: RightLowerArm_IK
+    400234: RightShoulder
+    400236: RightThumb1
+    400238: RightThumb2
+    400240: RightThumb_grp
+    400242: RightToe
+    400244: RightUpperArm
+    400246: RightUpperArm_FK
+    400248: RightUpperArm_grp
+    400250: RightUpperArm_IK
+    400252: RightWrist
+    400254: RightWrist_FK
+    400256: RightWrist_grp
+    400258: RightWrist_IK
+    400260: RightWrist_IK_grp
+    400262: Root
+    400264: Spine
+    400266: Spine_grp
+    400268: Tail1
+    400270: Tail2
+    400272: Tail3
+    400274: Tail_grp
+    400276: prop_RC_barrelStretchEnd
+    400278: DishJoint
+    400280: joint1
+    400282: joint2
+    400284: joint6
+    400286: RC_loc_NeutralPose
+    2300000: Player1
+    2300002: RC1
+    3300000: Player1
+    3300002: RC1
+    4300000: Player1
+    4300002: RC1
+    7400000: Move
+    7400002: Idle
+    7400004: Death
+    9500000: //RootNode
+    13700000: Player1
+    13700002: RC1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Move
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BoyCtrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/char_boy_LeftArm_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/char_boy_LeftHand
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/char_boy_RightArm_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/char_boy_RightHand
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/HipSway_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/HipSway_grp/char_boy_HipSway_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/HipSway_grp/char_boy_HipSway_ctrl/LeftFoot_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/HipSway_grp/char_boy_HipSway_ctrl/LeftFoot_grp/char_boy_LeftFoot_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/HipSway_grp/char_boy_HipSway_ctrl/RightFoot_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/HipSway_grp/char_boy_HipSway_ctrl/RightFoot_grp/char_boy_RightFoot_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/Hat_1_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/Hat_1_grp/char_boy_Hat_1_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/Hat_1_grp/char_boy_Hat_1_ctrl/Hat_2_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/Hat_1_grp/char_boy_Hat_1_ctrl/Hat_2_grp/char_boy_Hat_2_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/Hat_1_grp/char_boy_Hat_1_ctrl/Hat_2_grp/char_boy_Hat_2_ctrl/Hat_3_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/Hat_1_grp/char_boy_Hat_1_ctrl/Hat_2_grp/char_boy_Hat_2_ctrl/Hat_3_grp/char_boy_Hat_3_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/Hat_1_grp/char_boy_Hat_1_ctrl/Hat_2_grp/char_boy_Hat_2_ctrl/Hat_3_grp/char_boy_Hat_3_ctrl/Hat_4_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/Hat_1_grp/char_boy_Hat_1_ctrl/Hat_2_grp/char_boy_Hat_2_ctrl/Hat_3_grp/char_boy_Hat_3_ctrl/Hat_4_grp/char_boy_Hat_4_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/Hat_1_grp/char_boy_Hat_1_ctrl/Hat_2_grp/char_boy_Hat_2_ctrl/Hat_3_grp/char_boy_Hat_3_ctrl/Hat_4_grp/char_boy_Hat_4_ctrl/Hat_5_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/Hat_1_grp/char_boy_Hat_1_ctrl/Hat_2_grp/char_boy_Hat_2_ctrl/Hat_3_grp/char_boy_Hat_3_ctrl/Hat_4_grp/char_boy_Hat_4_ctrl/Hat_5_grp/char_boy_Hat_5_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/LeftBrow_1_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/LeftBrow_1_grp/char_boy_LeftBrow_1_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/LeftBrow_2_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/LeftBrow_2_grp/char_boy_LeftBrow_2_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/LeftBrow_3_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/LeftBrow_3_grp/char_boy_LeftBrow_3_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/RightBrow_1_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/RightBrow_1_grp/char_boy_RightBrow_1_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/RightBrow_2_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/RightBrow_2_grp/char_boy_RightBrow_2_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/RightBrow_3_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/RightBrow_3_grp/char_boy_RightBrow_3_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/LeftUpperArm_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/LeftUpperArm_grp/char_boy_LeftUpperArm_FK_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/LeftUpperArm_grp/char_boy_LeftUpperArm_FK_ctrl/LeftLowerArm_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/LeftUpperArm_grp/char_boy_LeftUpperArm_FK_ctrl/LeftLowerArm_grp/char_boy_LeftLowerArm_FK_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/LeftUpperArm_grp/char_boy_LeftUpperArm_FK_ctrl/LeftLowerArm_grp/char_boy_LeftLowerArm_FK_ctrl/LeftWrist_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/LeftUpperArm_grp/char_boy_LeftUpperArm_FK_ctrl/LeftLowerArm_grp/char_boy_LeftLowerArm_FK_ctrl/LeftWrist_grp/char_boy_LeftWrist_FK_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/RightUpperArm_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/RightUpperArm_grp/char_boy_RightUpperArm_FK_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/RightUpperArm_grp/char_boy_RightUpperArm_FK_ctrl/RightLowerArm_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/RightUpperArm_grp/char_boy_RightUpperArm_FK_ctrl/RightLowerArm_grp/char_boy_RightLowerArm_FK_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/RightUpperArm_grp/char_boy_RightUpperArm_FK_ctrl/RightLowerArm_grp/char_boy_RightLowerArm_FK_ctrl/RightWrist_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/RightUpperArm_grp/char_boy_RightUpperArm_FK_ctrl/RightLowerArm_grp/char_boy_RightLowerArm_FK_ctrl/RightWrist_grp/char_boy_RightWrist_FK_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Tail_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Tail_grp/char_boy_Tail_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/LeftArm_IKHandle
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/LeftThumb_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/LeftThumb_grp/char_boy_LeftThumb_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/LeftWrist_IK_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/LeftWrist_IK_grp/char_boy_LeftWrist_IK_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/RightArm_IKHandle
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/RightThumb_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/RightThumb_grp/char_boy_RightThumb_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/RightWrist_IK_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/RightWrist_IK_grp/char_boy_RightWrist_IK_ctrl
+        weight: 1
+      - path: BoyCtrl/Root
+        weight: 1
+      - path: BoyCtrl/Root/Hips
+        weight: 1
+      - path: BoyCtrl/Root/Hips/HipSway
+        weight: 1
+      - path: BoyCtrl/Root/Hips/HipSway/LeftLeg
+        weight: 1
+      - path: BoyCtrl/Root/Hips/HipSway/LeftLeg/LeftToe
+        weight: 1
+      - path: BoyCtrl/Root/Hips/HipSway/RightLeg
+        weight: 1
+      - path: BoyCtrl/Root/Hips/HipSway/RightLeg/RightToe
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/Hat1
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/Hat1/Hat2
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/Hat1/Hat2/Hat3
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/Hat1/Hat2/Hat3/Hat4
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/Hat1/Hat2/Hat3/Hat4/Hat5
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/Hat1/Hat2/Hat3/Hat4/Hat5/HatEnd
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/LeftBrow1
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/LeftBrow1/LeftBrow1End
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/LeftBrow2
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/LeftBrow2/LeftBrow2End
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/LeftBrow3
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/LeftBrow3/LeftBrow3End
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/RightBrow1
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/RightBrow1/RightBrow1End
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/RightBrow2
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/RightBrow2/RightBrow2End
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/RightBrow3
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/RightBrow3/RightBrow3End
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm/LeftLowerArm
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm/LeftLowerArm/LeftLowerArm2
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm/LeftLowerArm/LeftLowerArm2/LeftWrist
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm/LeftLowerArm/LeftLowerArm2/LeftWrist/LeftHand1
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm/LeftLowerArm/LeftLowerArm2/LeftWrist/LeftHand1/LeftHand2
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm/LeftLowerArm/LeftLowerArm2/LeftWrist/LeftThumb1
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm/LeftLowerArm/LeftLowerArm2/LeftWrist/LeftThumb1/LeftThumb2
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm_FK
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm_FK/LeftLowerArm_FK
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm_FK/LeftLowerArm_FK/LeftLowerArm_2_FK
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm_FK/LeftLowerArm_FK/LeftLowerArm_2_FK/LeftWrist_FK
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm_IK
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm_IK/LeftLowerArm_IK
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm_IK/LeftLowerArm_IK/LeftLowerArm2_IK
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm_IK/LeftLowerArm_IK/LeftLowerArm2_IK/LeftWrist_IK
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm/RightLowerArm
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm/RightLowerArm/RightLowerArm2
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm/RightLowerArm/RightLowerArm2/RightWrist
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm/RightLowerArm/RightLowerArm2/RightWrist/RC_loc
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm/RightLowerArm/RightLowerArm2/RightWrist/RC_loc/RCprop:joint1
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm/RightLowerArm/RightLowerArm2/RightWrist/RC_loc/RCprop:joint1/RCprop:joint2
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm/RightLowerArm/RightLowerArm2/RightWrist/RC_loc/RCprop:joint1/RCprop:joint2/GunBarrelEnd
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm/RightLowerArm/RightLowerArm2/RightWrist/RC_loc/RCprop:joint1/RCprop:joint2/RCprop:DishJoint
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm/RightLowerArm/RightLowerArm2/RightWrist/RC_loc/RCprop:joint1/RCprop:joint2/RCprop:DishJoint/RCDishEnd
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm/RightLowerArm/RightLowerArm2/RightWrist/RC_loc/RCprop:joint1/RCprop:joint2/RCprop:joint6
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm/RightLowerArm/RightLowerArm2/RightWrist/RightHand1
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm/RightLowerArm/RightLowerArm2/RightWrist/RightHand1/RightHand2
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm/RightLowerArm/RightLowerArm2/RightWrist/RightThumb1
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm/RightLowerArm/RightLowerArm2/RightWrist/RightThumb1/RightThumb2
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm_FK
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm_FK/RightLowerArm_FK
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm_FK/RightLowerArm_FK/RightLowerArm2_FK
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm_FK/RightLowerArm_FK/RightLowerArm2_FK/RightWrist_FK
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm_IK
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm_IK/RightLowerArm_IK
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm_IK/RightLowerArm_IK/RightLowerArm2_IK
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm_IK/RightLowerArm_IK/RightLowerArm2_IK/RightWrist_IK
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Tail1
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Tail1/Tail2
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Player1
+        weight: 1
+      - path: RC1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 137
+      lastFrame: 512
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BoyCtrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/char_boy_LeftArm_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/char_boy_LeftHand
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/char_boy_RightArm_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/char_boy_RightHand
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/HipSway_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/HipSway_grp/char_boy_HipSway_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/HipSway_grp/char_boy_HipSway_ctrl/LeftFoot_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/HipSway_grp/char_boy_HipSway_ctrl/LeftFoot_grp/char_boy_LeftFoot_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/HipSway_grp/char_boy_HipSway_ctrl/RightFoot_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/HipSway_grp/char_boy_HipSway_ctrl/RightFoot_grp/char_boy_RightFoot_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/Hat_1_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/Hat_1_grp/char_boy_Hat_1_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/Hat_1_grp/char_boy_Hat_1_ctrl/Hat_2_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/Hat_1_grp/char_boy_Hat_1_ctrl/Hat_2_grp/char_boy_Hat_2_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/Hat_1_grp/char_boy_Hat_1_ctrl/Hat_2_grp/char_boy_Hat_2_ctrl/Hat_3_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/Hat_1_grp/char_boy_Hat_1_ctrl/Hat_2_grp/char_boy_Hat_2_ctrl/Hat_3_grp/char_boy_Hat_3_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/Hat_1_grp/char_boy_Hat_1_ctrl/Hat_2_grp/char_boy_Hat_2_ctrl/Hat_3_grp/char_boy_Hat_3_ctrl/Hat_4_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/Hat_1_grp/char_boy_Hat_1_ctrl/Hat_2_grp/char_boy_Hat_2_ctrl/Hat_3_grp/char_boy_Hat_3_ctrl/Hat_4_grp/char_boy_Hat_4_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/Hat_1_grp/char_boy_Hat_1_ctrl/Hat_2_grp/char_boy_Hat_2_ctrl/Hat_3_grp/char_boy_Hat_3_ctrl/Hat_4_grp/char_boy_Hat_4_ctrl/Hat_5_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/Hat_1_grp/char_boy_Hat_1_ctrl/Hat_2_grp/char_boy_Hat_2_ctrl/Hat_3_grp/char_boy_Hat_3_ctrl/Hat_4_grp/char_boy_Hat_4_ctrl/Hat_5_grp/char_boy_Hat_5_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/LeftBrow_1_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/LeftBrow_1_grp/char_boy_LeftBrow_1_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/LeftBrow_2_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/LeftBrow_2_grp/char_boy_LeftBrow_2_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/LeftBrow_3_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/LeftBrow_3_grp/char_boy_LeftBrow_3_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/RightBrow_1_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/RightBrow_1_grp/char_boy_RightBrow_1_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/RightBrow_2_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/RightBrow_2_grp/char_boy_RightBrow_2_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/RightBrow_3_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/RightBrow_3_grp/char_boy_RightBrow_3_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/LeftUpperArm_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/LeftUpperArm_grp/char_boy_LeftUpperArm_FK_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/LeftUpperArm_grp/char_boy_LeftUpperArm_FK_ctrl/LeftLowerArm_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/LeftUpperArm_grp/char_boy_LeftUpperArm_FK_ctrl/LeftLowerArm_grp/char_boy_LeftLowerArm_FK_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/LeftUpperArm_grp/char_boy_LeftUpperArm_FK_ctrl/LeftLowerArm_grp/char_boy_LeftLowerArm_FK_ctrl/LeftWrist_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/LeftUpperArm_grp/char_boy_LeftUpperArm_FK_ctrl/LeftLowerArm_grp/char_boy_LeftLowerArm_FK_ctrl/LeftWrist_grp/char_boy_LeftWrist_FK_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/RightUpperArm_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/RightUpperArm_grp/char_boy_RightUpperArm_FK_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/RightUpperArm_grp/char_boy_RightUpperArm_FK_ctrl/RightLowerArm_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/RightUpperArm_grp/char_boy_RightUpperArm_FK_ctrl/RightLowerArm_grp/char_boy_RightLowerArm_FK_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/RightUpperArm_grp/char_boy_RightUpperArm_FK_ctrl/RightLowerArm_grp/char_boy_RightLowerArm_FK_ctrl/RightWrist_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/RightUpperArm_grp/char_boy_RightUpperArm_FK_ctrl/RightLowerArm_grp/char_boy_RightLowerArm_FK_ctrl/RightWrist_grp/char_boy_RightWrist_FK_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Tail_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Tail_grp/char_boy_Tail_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/LeftArm_IKHandle
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/LeftThumb_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/LeftThumb_grp/char_boy_LeftThumb_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/LeftWrist_IK_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/LeftWrist_IK_grp/char_boy_LeftWrist_IK_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/RightArm_IKHandle
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/RightThumb_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/RightThumb_grp/char_boy_RightThumb_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/RightWrist_IK_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/RightWrist_IK_grp/char_boy_RightWrist_IK_ctrl
+        weight: 1
+      - path: BoyCtrl/Root
+        weight: 1
+      - path: BoyCtrl/Root/Hips
+        weight: 1
+      - path: BoyCtrl/Root/Hips/HipSway
+        weight: 1
+      - path: BoyCtrl/Root/Hips/HipSway/LeftLeg
+        weight: 1
+      - path: BoyCtrl/Root/Hips/HipSway/LeftLeg/LeftToe
+        weight: 1
+      - path: BoyCtrl/Root/Hips/HipSway/RightLeg
+        weight: 1
+      - path: BoyCtrl/Root/Hips/HipSway/RightLeg/RightToe
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/Hat1
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/Hat1/Hat2
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/Hat1/Hat2/Hat3
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/Hat1/Hat2/Hat3/Hat4
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/Hat1/Hat2/Hat3/Hat4/Hat5
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/Hat1/Hat2/Hat3/Hat4/Hat5/HatEnd
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/LeftBrow1
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/LeftBrow1/LeftBrow1End
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/LeftBrow2
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/LeftBrow2/LeftBrow2End
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/LeftBrow3
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/LeftBrow3/LeftBrow3End
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/RightBrow1
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/RightBrow1/RightBrow1End
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/RightBrow2
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/RightBrow2/RightBrow2End
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/RightBrow3
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/RightBrow3/RightBrow3End
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm/LeftLowerArm
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm/LeftLowerArm/LeftLowerArm2
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm/LeftLowerArm/LeftLowerArm2/LeftWrist
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm/LeftLowerArm/LeftLowerArm2/LeftWrist/LeftHand1
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm/LeftLowerArm/LeftLowerArm2/LeftWrist/LeftHand1/LeftHand2
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm/LeftLowerArm/LeftLowerArm2/LeftWrist/LeftThumb1
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm/LeftLowerArm/LeftLowerArm2/LeftWrist/LeftThumb1/LeftThumb2
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm_FK
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm_FK/LeftLowerArm_FK
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm_FK/LeftLowerArm_FK/LeftLowerArm_2_FK
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm_FK/LeftLowerArm_FK/LeftLowerArm_2_FK/LeftWrist_FK
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm_IK
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm_IK/LeftLowerArm_IK
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm_IK/LeftLowerArm_IK/LeftLowerArm2_IK
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm_IK/LeftLowerArm_IK/LeftLowerArm2_IK/LeftWrist_IK
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm/RightLowerArm
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm/RightLowerArm/RightLowerArm2
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm/RightLowerArm/RightLowerArm2/RightWrist
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm/RightLowerArm/RightLowerArm2/RightWrist/RC_loc
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm/RightLowerArm/RightLowerArm2/RightWrist/RC_loc/RCprop:joint1
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm/RightLowerArm/RightLowerArm2/RightWrist/RC_loc/RCprop:joint1/RCprop:joint2
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm/RightLowerArm/RightLowerArm2/RightWrist/RC_loc/RCprop:joint1/RCprop:joint2/GunBarrelEnd
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm/RightLowerArm/RightLowerArm2/RightWrist/RC_loc/RCprop:joint1/RCprop:joint2/RCprop:DishJoint
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm/RightLowerArm/RightLowerArm2/RightWrist/RC_loc/RCprop:joint1/RCprop:joint2/RCprop:DishJoint/RCDishEnd
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm/RightLowerArm/RightLowerArm2/RightWrist/RC_loc/RCprop:joint1/RCprop:joint2/RCprop:joint6
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm/RightLowerArm/RightLowerArm2/RightWrist/RightHand1
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm/RightLowerArm/RightLowerArm2/RightWrist/RightHand1/RightHand2
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm/RightLowerArm/RightLowerArm2/RightWrist/RightThumb1
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm/RightLowerArm/RightLowerArm2/RightWrist/RightThumb1/RightThumb2
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm_FK
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm_FK/RightLowerArm_FK
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm_FK/RightLowerArm_FK/RightLowerArm2_FK
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm_FK/RightLowerArm_FK/RightLowerArm2_FK/RightWrist_FK
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm_IK
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm_IK/RightLowerArm_IK
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm_IK/RightLowerArm_IK/RightLowerArm2_IK
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm_IK/RightLowerArm_IK/RightLowerArm2_IK/RightWrist_IK
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Tail1
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Tail1/Tail2
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Player1
+        weight: 1
+      - path: RC1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Death
+      takeName: Take 001
+      firstFrame: 525
+      lastFrame: 650
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.7834777
+        functionName: DeathComplete
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: c32067ea884548644b13cf9baddd4573,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BoyCtrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/char_boy_LeftArm_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/char_boy_LeftHand
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/char_boy_RightArm_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/char_boy_RightHand
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/HipSway_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/HipSway_grp/char_boy_HipSway_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/HipSway_grp/char_boy_HipSway_ctrl/LeftFoot_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/HipSway_grp/char_boy_HipSway_ctrl/LeftFoot_grp/char_boy_LeftFoot_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/HipSway_grp/char_boy_HipSway_ctrl/RightFoot_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/HipSway_grp/char_boy_HipSway_ctrl/RightFoot_grp/char_boy_RightFoot_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/Hat_1_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/Hat_1_grp/char_boy_Hat_1_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/Hat_1_grp/char_boy_Hat_1_ctrl/Hat_2_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/Hat_1_grp/char_boy_Hat_1_ctrl/Hat_2_grp/char_boy_Hat_2_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/Hat_1_grp/char_boy_Hat_1_ctrl/Hat_2_grp/char_boy_Hat_2_ctrl/Hat_3_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/Hat_1_grp/char_boy_Hat_1_ctrl/Hat_2_grp/char_boy_Hat_2_ctrl/Hat_3_grp/char_boy_Hat_3_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/Hat_1_grp/char_boy_Hat_1_ctrl/Hat_2_grp/char_boy_Hat_2_ctrl/Hat_3_grp/char_boy_Hat_3_ctrl/Hat_4_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/Hat_1_grp/char_boy_Hat_1_ctrl/Hat_2_grp/char_boy_Hat_2_ctrl/Hat_3_grp/char_boy_Hat_3_ctrl/Hat_4_grp/char_boy_Hat_4_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/Hat_1_grp/char_boy_Hat_1_ctrl/Hat_2_grp/char_boy_Hat_2_ctrl/Hat_3_grp/char_boy_Hat_3_ctrl/Hat_4_grp/char_boy_Hat_4_ctrl/Hat_5_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/Hat_1_grp/char_boy_Hat_1_ctrl/Hat_2_grp/char_boy_Hat_2_ctrl/Hat_3_grp/char_boy_Hat_3_ctrl/Hat_4_grp/char_boy_Hat_4_ctrl/Hat_5_grp/char_boy_Hat_5_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/LeftBrow_1_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/LeftBrow_1_grp/char_boy_LeftBrow_1_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/LeftBrow_2_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/LeftBrow_2_grp/char_boy_LeftBrow_2_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/LeftBrow_3_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/LeftBrow_3_grp/char_boy_LeftBrow_3_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/RightBrow_1_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/RightBrow_1_grp/char_boy_RightBrow_1_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/RightBrow_2_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/RightBrow_2_grp/char_boy_RightBrow_2_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/RightBrow_3_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/Head_grp/char_boy_Head_ctrl/RightBrow_3_grp/char_boy_RightBrow_3_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/LeftUpperArm_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/LeftUpperArm_grp/char_boy_LeftUpperArm_FK_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/LeftUpperArm_grp/char_boy_LeftUpperArm_FK_ctrl/LeftLowerArm_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/LeftUpperArm_grp/char_boy_LeftUpperArm_FK_ctrl/LeftLowerArm_grp/char_boy_LeftLowerArm_FK_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/LeftUpperArm_grp/char_boy_LeftUpperArm_FK_ctrl/LeftLowerArm_grp/char_boy_LeftLowerArm_FK_ctrl/LeftWrist_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/LeftUpperArm_grp/char_boy_LeftUpperArm_FK_ctrl/LeftLowerArm_grp/char_boy_LeftLowerArm_FK_ctrl/LeftWrist_grp/char_boy_LeftWrist_FK_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/RightUpperArm_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/RightUpperArm_grp/char_boy_RightUpperArm_FK_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/RightUpperArm_grp/char_boy_RightUpperArm_FK_ctrl/RightLowerArm_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/RightUpperArm_grp/char_boy_RightUpperArm_FK_ctrl/RightLowerArm_grp/char_boy_RightLowerArm_FK_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/RightUpperArm_grp/char_boy_RightUpperArm_FK_ctrl/RightLowerArm_grp/char_boy_RightLowerArm_FK_ctrl/RightWrist_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Spine_grp/char_boy_Spine_ctrl/RightUpperArm_grp/char_boy_RightUpperArm_FK_ctrl/RightLowerArm_grp/char_boy_RightLowerArm_FK_ctrl/RightWrist_grp/char_boy_RightWrist_FK_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Tail_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/Hips_grp/char_boy_Hips_ctrl/Tail_grp/char_boy_Tail_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/LeftArm_IKHandle
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/LeftThumb_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/LeftThumb_grp/char_boy_LeftThumb_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/LeftWrist_IK_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/LeftWrist_IK_grp/char_boy_LeftWrist_IK_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/RightArm_IKHandle
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/RightThumb_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/RightThumb_grp/char_boy_RightThumb_ctrl
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/RightWrist_IK_grp
+        weight: 1
+      - path: BoyCtrl/Ctrl_Grp/RightWrist_IK_grp/char_boy_RightWrist_IK_ctrl
+        weight: 1
+      - path: BoyCtrl/Root
+        weight: 1
+      - path: BoyCtrl/Root/Hips
+        weight: 1
+      - path: BoyCtrl/Root/Hips/HipSway
+        weight: 1
+      - path: BoyCtrl/Root/Hips/HipSway/LeftLeg
+        weight: 1
+      - path: BoyCtrl/Root/Hips/HipSway/LeftLeg/LeftToe
+        weight: 1
+      - path: BoyCtrl/Root/Hips/HipSway/RightLeg
+        weight: 1
+      - path: BoyCtrl/Root/Hips/HipSway/RightLeg/RightToe
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/Hat1
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/Hat1/Hat2
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/Hat1/Hat2/Hat3
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/Hat1/Hat2/Hat3/Hat4
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/Hat1/Hat2/Hat3/Hat4/Hat5
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/Hat1/Hat2/Hat3/Hat4/Hat5/HatEnd
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/LeftBrow1
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/LeftBrow1/LeftBrow1End
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/LeftBrow2
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/LeftBrow2/LeftBrow2End
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/LeftBrow3
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/LeftBrow3/LeftBrow3End
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/RightBrow1
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/RightBrow1/RightBrow1End
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/RightBrow2
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/RightBrow2/RightBrow2End
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/RightBrow3
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/Head/RightBrow3/RightBrow3End
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm/LeftLowerArm
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm/LeftLowerArm/LeftLowerArm2
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm/LeftLowerArm/LeftLowerArm2/LeftWrist
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm/LeftLowerArm/LeftLowerArm2/LeftWrist/LeftHand1
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm/LeftLowerArm/LeftLowerArm2/LeftWrist/LeftHand1/LeftHand2
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm/LeftLowerArm/LeftLowerArm2/LeftWrist/LeftThumb1
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm/LeftLowerArm/LeftLowerArm2/LeftWrist/LeftThumb1/LeftThumb2
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm_FK
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm_FK/LeftLowerArm_FK
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm_FK/LeftLowerArm_FK/LeftLowerArm_2_FK
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm_FK/LeftLowerArm_FK/LeftLowerArm_2_FK/LeftWrist_FK
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm_IK
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm_IK/LeftLowerArm_IK
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm_IK/LeftLowerArm_IK/LeftLowerArm2_IK
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm_IK/LeftLowerArm_IK/LeftLowerArm2_IK/LeftWrist_IK
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm/RightLowerArm
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm/RightLowerArm/RightLowerArm2
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm/RightLowerArm/RightLowerArm2/RightWrist
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm/RightLowerArm/RightLowerArm2/RightWrist/RC_loc
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm/RightLowerArm/RightLowerArm2/RightWrist/RC_loc/RCprop:joint1
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm/RightLowerArm/RightLowerArm2/RightWrist/RC_loc/RCprop:joint1/RCprop:joint2
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm/RightLowerArm/RightLowerArm2/RightWrist/RC_loc/RCprop:joint1/RCprop:joint2/GunBarrelEnd
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm/RightLowerArm/RightLowerArm2/RightWrist/RC_loc/RCprop:joint1/RCprop:joint2/RCprop:DishJoint
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm/RightLowerArm/RightLowerArm2/RightWrist/RC_loc/RCprop:joint1/RCprop:joint2/RCprop:DishJoint/RCDishEnd
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm/RightLowerArm/RightLowerArm2/RightWrist/RC_loc/RCprop:joint1/RCprop:joint2/RCprop:joint6
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm/RightLowerArm/RightLowerArm2/RightWrist/RightHand1
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm/RightLowerArm/RightLowerArm2/RightWrist/RightHand1/RightHand2
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm/RightLowerArm/RightLowerArm2/RightWrist/RightThumb1
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm/RightLowerArm/RightLowerArm2/RightWrist/RightThumb1/RightThumb2
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm_FK
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm_FK/RightLowerArm_FK
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm_FK/RightLowerArm_FK/RightLowerArm2_FK
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm_FK/RightLowerArm_FK/RightLowerArm2_FK/RightWrist_FK
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm_IK
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm_IK/RightLowerArm_IK
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm_IK/RightLowerArm_IK/RightLowerArm2_IK
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm_IK/RightLowerArm_IK/RightLowerArm2_IK/RightWrist_IK
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Tail1
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Tail1/Tail2
+        weight: 1
+      - path: BoyCtrl/Root/Hips/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Player1
+        weight: 1
+      - path: RC1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

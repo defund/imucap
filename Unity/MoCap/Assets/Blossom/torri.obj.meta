@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 8f7f6a759fc808b47b915aeee93f8ac7
+timeCreated: 1475412173
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: pillar2_pillar_right_torii
+    100002: pillar_right_torii_pillar2_floor_pillar_right_base
+    100004: pillar_right_torii_pillar2_woodpiece1
+    100006: pillar_right_torii_pillar2_woodpiece2
+    100008: pillar_right_torii_pillar_right_base_pillar2_base
+    100010: torii_middle_bar_middle_parts
+    100012: torii_middle_parts_middle_woodpiece
+    100014: torii_pillar1_pillar_left
+    100016: torii_pillar_left_pillar1_floor_pillar_left_base
+    100018: torii_pillar_left_pillar1_woodpiece1
+    100020: torii_pillar_left_pillar1_woodpiece2
+    100022: torii_pillar_left_pillar_left_base_pillar1_base
+    100024: torii_roof_roof_bottom
+    100026: torii_roof_top_roof
+    100028: //RootNode
+    400000: pillar2_pillar_right_torii
+    400002: pillar_right_torii_pillar2_floor_pillar_right_base
+    400004: pillar_right_torii_pillar2_woodpiece1
+    400006: pillar_right_torii_pillar2_woodpiece2
+    400008: pillar_right_torii_pillar_right_base_pillar2_base
+    400010: torii_middle_bar_middle_parts
+    400012: torii_middle_parts_middle_woodpiece
+    400014: torii_pillar1_pillar_left
+    400016: torii_pillar_left_pillar1_floor_pillar_left_base
+    400018: torii_pillar_left_pillar1_woodpiece1
+    400020: torii_pillar_left_pillar1_woodpiece2
+    400022: torii_pillar_left_pillar_left_base_pillar1_base
+    400024: torii_roof_roof_bottom
+    400026: torii_roof_top_roof
+    400028: //RootNode
+    2300000: pillar2_pillar_right_torii
+    2300002: pillar_right_torii_pillar2_floor_pillar_right_base
+    2300004: pillar_right_torii_pillar2_woodpiece1
+    2300006: pillar_right_torii_pillar2_woodpiece2
+    2300008: pillar_right_torii_pillar_right_base_pillar2_base
+    2300010: torii_middle_bar_middle_parts
+    2300012: torii_middle_parts_middle_woodpiece
+    2300014: torii_pillar1_pillar_left
+    2300016: torii_pillar_left_pillar1_floor_pillar_left_base
+    2300018: torii_pillar_left_pillar1_woodpiece1
+    2300020: torii_pillar_left_pillar1_woodpiece2
+    2300022: torii_pillar_left_pillar_left_base_pillar1_base
+    2300024: torii_roof_roof_bottom
+    2300026: torii_roof_top_roof
+    3300000: pillar2_pillar_right_torii
+    3300002: pillar_right_torii_pillar2_floor_pillar_right_base
+    3300004: pillar_right_torii_pillar2_woodpiece1
+    3300006: pillar_right_torii_pillar2_woodpiece2
+    3300008: pillar_right_torii_pillar_right_base_pillar2_base
+    3300010: torii_middle_bar_middle_parts
+    3300012: torii_middle_parts_middle_woodpiece
+    3300014: torii_pillar1_pillar_left
+    3300016: torii_pillar_left_pillar1_floor_pillar_left_base
+    3300018: torii_pillar_left_pillar1_woodpiece1
+    3300020: torii_pillar_left_pillar1_woodpiece2
+    3300022: torii_pillar_left_pillar_left_base_pillar1_base
+    3300024: torii_roof_roof_bottom
+    3300026: torii_roof_top_roof
+    4300000: pillar2_pillar_right_torii
+    4300002: pillar_right_torii_pillar2_floor_pillar_right_base
+    4300004: pillar_right_torii_pillar2_woodpiece1
+    4300006: pillar_right_torii_pillar2_woodpiece2
+    4300008: pillar_right_torii_pillar_right_base_pillar2_base
+    4300010: torii_middle_bar_middle_parts
+    4300012: torii_middle_parts_middle_woodpiece
+    4300014: torii_pillar1_pillar_left
+    4300016: torii_pillar_left_pillar1_floor_pillar_left_base
+    4300018: torii_pillar_left_pillar1_woodpiece1
+    4300020: torii_pillar_left_pillar1_woodpiece2
+    4300022: torii_pillar_left_pillar_left_base_pillar1_base
+    4300024: torii_roof_roof_bottom
+    4300026: torii_roof_top_roof
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

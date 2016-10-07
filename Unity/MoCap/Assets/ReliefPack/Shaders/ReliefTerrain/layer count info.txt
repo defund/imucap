@@ -1,0 +1,12 @@
+RTP can work in 2 modes:
+
+1. 4 layer per pass
+2. 8 layers in first pass
+
+In first mode if you use more than 4 layers (up to 8), layers 4-7 will be realised in 2nd pass (AddPass shader).
+
+In 2nd mode layers 0-7 will be rendered in single pass, layers 8-11 will be rendered in AddPass. We can't use more than 12 layers (result might be unpredictible).
+Additional constraint is multiple terrain setups that don't use materials (default for U3 and for U4 w/o terrain material). 8 layers mode is then unavailable (use terrain material in U4 to enble 8 layers mode for multiterrain).
+
+Remember that any other shaders that redefines "Hidden/TerrainEngine/Splatmap/Lightmap-FirstPass" and "Hidden/TerrainEngine/Splatmap/Lightmap-AddPass"
+should be removed from project as such terrain replacement shaders would interfere with RTP. If we use terrain materials in U4, it's not an issue as shaders are named different then.

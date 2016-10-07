@@ -1,0 +1,378 @@
+fileFormatVersion: 2
+guid: 04eb5d04905503f4e821d22cfd8fb2f8
+timeCreated: 1439015073
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Dog_CTRL
+    100004: DogMesh
+    100006: head
+    100008: Hips_CTRL
+    100010: Hips_dog
+    100012: jaw
+    100014: L_back_upr
+    100016: l_ear1
+    100018: l_ear2
+    100020: l_ear3
+    100022: L_foot_back
+    100024: L_Lwr_back
+    100026: L_lwrLeg
+    100028: L_paw
+    100030: L_toe_front
+    100032: L_uprLeg
+    100034: neck
+    100036: neck2
+    100038: r_back_toe
+    100040: r_ear1
+    100042: r_ear2
+    100044: r_ear3
+    100046: R_foot_back
+    100048: R_lwr_back
+    100050: R_LwrLeg
+    100052: R_paw
+    100054: R_toe_back
+    100056: R_toe_front
+    100058: R_upr_back
+    100060: R_uprLeg
+    100062: Shoulders
+    100064: spine2
+    100066: spine3
+    100068: tail1
+    100070: tail2
+    100072: tail3
+    100074: tongue1
+    100076: tongue2
+    100078: tongue3
+    100080: tongue4
+    400000: //RootNode
+    400002: Dog_CTRL
+    400004: DogMesh
+    400006: head
+    400008: Hips_CTRL
+    400010: Hips_dog
+    400012: jaw
+    400014: L_back_upr
+    400016: l_ear1
+    400018: l_ear2
+    400020: l_ear3
+    400022: L_foot_back
+    400024: L_Lwr_back
+    400026: L_lwrLeg
+    400028: L_paw
+    400030: L_toe_front
+    400032: L_uprLeg
+    400034: neck
+    400036: neck2
+    400038: r_back_toe
+    400040: r_ear1
+    400042: r_ear2
+    400044: r_ear3
+    400046: R_foot_back
+    400048: R_lwr_back
+    400050: R_LwrLeg
+    400052: R_paw
+    400054: R_toe_back
+    400056: R_toe_front
+    400058: R_upr_back
+    400060: R_uprLeg
+    400062: Shoulders
+    400064: spine2
+    400066: spine3
+    400068: tail1
+    400070: tail2
+    400072: tail3
+    400074: tongue1
+    400076: tongue2
+    400078: tongue3
+    400080: tongue4
+    4300000: DogMesh
+    7400000: Move
+    7400002: Idle
+    9500000: //RootNode
+    13700000: DogMesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Move
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dog_CTRL
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/L_back_upr
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/L_back_upr/L_Lwr_back
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/L_back_upr/L_Lwr_back/L_foot_back
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/L_back_upr/L_Lwr_back/L_foot_back/r_back_toe
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/R_upr_back
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/R_upr_back/R_lwr_back
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/R_upr_back/R_lwr_back/R_foot_back
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/R_upr_back/R_lwr_back/R_foot_back/R_toe_back
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2/spine3
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2/spine3/Shoulders
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2/spine3/Shoulders/L_uprLeg
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2/spine3/Shoulders/L_uprLeg/L_lwrLeg
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2/spine3/Shoulders/L_uprLeg/L_lwrLeg/L_paw
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2/spine3/Shoulders/L_uprLeg/L_lwrLeg/L_paw/L_toe_front
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2/spine3/Shoulders/neck
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2/spine3/Shoulders/neck/neck2
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2/spine3/Shoulders/neck/neck2/head
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2/spine3/Shoulders/neck/neck2/head/jaw
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2/spine3/Shoulders/neck/neck2/head/jaw/tongue1
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2/spine3/Shoulders/neck/neck2/head/jaw/tongue1/tongue2
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2/spine3/Shoulders/neck/neck2/head/jaw/tongue1/tongue2/tongue3
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2/spine3/Shoulders/neck/neck2/head/jaw/tongue1/tongue2/tongue3/tongue4
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2/spine3/Shoulders/neck/neck2/head/l_ear1
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2/spine3/Shoulders/neck/neck2/head/l_ear1/l_ear2
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2/spine3/Shoulders/neck/neck2/head/l_ear1/l_ear2/l_ear3
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2/spine3/Shoulders/neck/neck2/head/r_ear1
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2/spine3/Shoulders/neck/neck2/head/r_ear1/r_ear2
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2/spine3/Shoulders/neck/neck2/head/r_ear1/r_ear2/r_ear3
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2/spine3/Shoulders/R_uprLeg
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2/spine3/Shoulders/R_uprLeg/R_LwrLeg
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2/spine3/Shoulders/R_uprLeg/R_LwrLeg/R_paw
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2/spine3/Shoulders/R_uprLeg/R_LwrLeg/R_paw/R_toe_front
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/tail1
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/tail1/tail2
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/tail1/tail2/tail3
+        weight: 1
+      - path: DogMesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 60
+      lastFrame: 275
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dog_CTRL
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/L_back_upr
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/L_back_upr/L_Lwr_back
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/L_back_upr/L_Lwr_back/L_foot_back
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/L_back_upr/L_Lwr_back/L_foot_back/r_back_toe
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/R_upr_back
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/R_upr_back/R_lwr_back
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/R_upr_back/R_lwr_back/R_foot_back
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/R_upr_back/R_lwr_back/R_foot_back/R_toe_back
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2/spine3
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2/spine3/Shoulders
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2/spine3/Shoulders/L_uprLeg
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2/spine3/Shoulders/L_uprLeg/L_lwrLeg
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2/spine3/Shoulders/L_uprLeg/L_lwrLeg/L_paw
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2/spine3/Shoulders/L_uprLeg/L_lwrLeg/L_paw/L_toe_front
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2/spine3/Shoulders/neck
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2/spine3/Shoulders/neck/neck2
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2/spine3/Shoulders/neck/neck2/head
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2/spine3/Shoulders/neck/neck2/head/jaw
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2/spine3/Shoulders/neck/neck2/head/jaw/tongue1
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2/spine3/Shoulders/neck/neck2/head/jaw/tongue1/tongue2
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2/spine3/Shoulders/neck/neck2/head/jaw/tongue1/tongue2/tongue3
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2/spine3/Shoulders/neck/neck2/head/jaw/tongue1/tongue2/tongue3/tongue4
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2/spine3/Shoulders/neck/neck2/head/l_ear1
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2/spine3/Shoulders/neck/neck2/head/l_ear1/l_ear2
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2/spine3/Shoulders/neck/neck2/head/l_ear1/l_ear2/l_ear3
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2/spine3/Shoulders/neck/neck2/head/r_ear1
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2/spine3/Shoulders/neck/neck2/head/r_ear1/r_ear2
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2/spine3/Shoulders/neck/neck2/head/r_ear1/r_ear2/r_ear3
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2/spine3/Shoulders/R_uprLeg
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2/spine3/Shoulders/R_uprLeg/R_LwrLeg
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2/spine3/Shoulders/R_uprLeg/R_LwrLeg/R_paw
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/spine2/spine3/Shoulders/R_uprLeg/R_LwrLeg/R_paw/R_toe_front
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/tail1
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/tail1/tail2
+        weight: 1
+      - path: Dog_CTRL/Hips_CTRL/Hips_dog/tail1/tail2/tail3
+        weight: 1
+      - path: DogMesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
