@@ -14,4 +14,4 @@ effective because it allows for scalable motions on different sized player model
 We plan to create a system for gesture recognition, so that if superhuman abilities are required
 in a VR game, a natural gesture can be used to accomplish this. 
 
-Here's our [Devpost Submission](https://devpost.com/software/vrmc).
+Here's our [Devpost submission](https://devpost.com/software/vrmc) to HackUMBC Fall 2016.
