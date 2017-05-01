@@ -1,0 +1,1 @@
+A project demo made in Unity, a simple game where the user is a stationary avatar holding a sword. The arm holding the sword is controlled by 2 IMUs placed at the shoulder and elbow of the human. Balls surrounding the avatar are destroyed on contact with the sword, requiring accurate control.
